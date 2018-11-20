@@ -1,0 +1,27 @@
+<! DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<script type="text/javascript">
+  
+  function setupafunction(){
+  alert("1====this")
+  alert("2=====is")
+  alert("3======a")
+  alert("4======test")
+  
+  }
+  
+  
+  #js的引用：
+  <script src="文件上级文件夹/文件名称.js"></script>
+  #functions won't be started unless write setupafunction at terminal
+  alert("maybe: smart");
+</script>
+
+</head>
+<body>
+</body>
+</html>
