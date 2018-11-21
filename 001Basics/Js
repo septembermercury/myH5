@@ -19,6 +19,15 @@
   <script src="文件上级文件夹/文件名称.js"></script>
   #functions won't be started unless write setupafunction at terminal
   alert("maybe: smart");
+  
+  var price;
+  price =39.99;
+  var priceOff;
+  priceOff =0.3;
+  price = price*priceOff
+  alert("now price is"+ price);
+  
+  
 </script>
 
 </head>
